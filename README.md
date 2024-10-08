@@ -1,3 +1,3 @@
 # mlops-practice
 
-This is latencyzzz
+This is latency
